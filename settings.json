@@ -1,0 +1,14 @@
+{
+    "name": "PRAESTO",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "PRAESTO",
+        "/category/asset_value_tracking/core-token/symbol": "PRST",
+        "/category/asset_value_tracking/core-token/decimals": "0",
+        "/category/asset_value_tracking/core-token/supply": "1000000"
+    }
+}
